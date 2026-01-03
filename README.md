@@ -1,14 +1,37 @@
-Data Science & Analytics Internship ✨ | Task 1 – Future Interns
-🚀 E-Commerce Business Sales Dashboard Project ✨
-Excited to share my Business Sales Dashboard built using Power BI as part of my internship at Future Interns.
-✅ What I worked on:
-Cleaning and organizing raw Excel/CSV sales data
-Analyzing trends, category-wise performance, and regional sales
-Creating KPIs using DAX (Total Sales, Profit, Quantity)
-Designing an interactive and visually structured Power BI dashboard with filters and charts
-🛠 Tools Used: Power BI | Microsoft Excel
-📁 Dataset: Superstore Sales
-🔗 GitHub Repository:https://github.com/Anuhya1828/FUTURE_DS_01.git
-Grateful for this learning opportunity and looking forward to exploring more in Data Science & Analytics.
-#FutureInterns #DataScience #PowerBI #DataAnalytics #LearningJourney# FUTURE_DS_01
-BUSINESS SALES DASHBOARD FROM E-COMMERCE DATA -FUTURE INTERNS TASK 1
+📊 E-Commerce BUSINESS SALES DASHBOARD FROM E-COMMERCE DATA -FUTURE INTERNS TASK 1
+
+📌 PROJECT OVERVIEW
+
+This project presents an interactive E-Commerce Sales Dashboard developed using Power BI, designed to analyze sales performance, profitability, customer demand, and regional trends. The dashboard enables stakeholders to make data-driven business decisions through clear and insightful visualizations.
+
+🔍 KEY BUSINESS QUESTIONS ANSWERED
+
+* How have sales and profit grown year-over-year?
+* Which product categories contribute the most profit?
+* What are the top revenue-generating products?
+* Which regions and cities perform best in terms of sales and profit?
+* What is the overall profit margin and average order value (AOV)?
+
+📈 DASHBOARD FEATURES
+
+KPI Cards: Total Sales, Total Profit, Total Quantity, Total Orders, AOV, Profit Margin
+
+* Yearly Sales & Profit Trends
+* Category-wise Profit Distribution
+* Top Products by Sales
+* Region & Category Sales Comparison
+* City-level Profit Analysis (Map Visualization)
+* Interactive Filters for dynamic analysis
+
+🛠️ TOOLS & TECHNOLOGIES USED
+
+* Power BI Desktop
+* Microsoft Excel (Data Cleaning & Preparation)
+* DAX Measures for calculations and KPIs
+
+📷 Dashboard Preview
+<img width="1368" height="741" alt="image" src="https://github.com/user-attachments/assets/9aea7132-bfda-461f-8f1f-20aba25bfd3d" />
+
+Outcome
+* This dashboard provides a comprehensive view of e-commerce performance, helping businesses identify growth opportunities, optimize product strategies, and improve regional sales planning.
+
